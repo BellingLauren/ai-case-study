@@ -1,9 +1,4 @@
-# ai-case-study
-Module 1 Challenge
-
-Waymo
-
-Ride Share Getting Waymo Better
+## Waymo: Ride Share Getting Waymo Better
 
 ## Overview and Origin
 
