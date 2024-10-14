@@ -16,6 +16,8 @@ Waymo is a part of the Autonomous Car field which has evolved over time. In the 
 
 Waymo has impacted the way people travel in a safe and reliable way. In September 2024, Waymo reported in its first 22 million miles that they have had 84% fewer airbag deployment crashes, 73% fewer injury-causing crashes, and 48% fewer police-reported crashes compared to a human driving the same distance in the cities they are operated.[7] This data suggests that Waymo provides a safer driving environment for everyone on the roads. Compared to competitors in the industry, Waymo continues to improve technology to help them stay competitive in the field and provide a safe driving experience for every passenger involved.
 
+"By making detailed information about crashes and miles driven publicly accessible, Waymo’s transparency will not only support independent research but foster public trust. We hope other companies developing and deploying automated driving systems follow suit.”- David Zuby, Chief Research Officer, Insurance Institute for Highway Safety (IIHS)[8]
+
 ## Recommendations
 
 The possibilities for Waymo are limitless.  In the future, Waymo could deliver essential items such as groceries or medications to mobility-constrained individuals.  There could also be instances where Waymo is the preferred option for delivery or transportation for individuals concerned with privacy or safety. For this to happen, the company would have to integrate software to communicate with pharmacies and vehicles to route to each location and integrate additional AI technologies to deliver from vehicle to front door delivery, such as a drone.  
@@ -36,4 +38,5 @@ https://builtin.com/articles/self-driving-car-companies - reference for addition
 
 https://waymo.com/blog/2024/09/safety-data-hub/   - Reference for statistics on Waymo [7]
 
+https://waymo.com/safety/impact/ - Reference for Quote by David Zuby Chief Research officer [8]
 
