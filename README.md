@@ -20,13 +20,20 @@ Waymo has impacted the way people travel in a safe and reliable way. In Septembe
 
 The possibilities for Waymo are limitless.  In the future, Waymo could deliver essential items such as groceries or medications to mobility-constrained individuals.  There could also be instances where Waymo is the preferred option for delivery or transportation for individuals concerned with privacy or safety. For this to happen, the company would have to integrate software to communicate with pharmacies and vehicles to route to each location and integrate additional AI technologies to deliver from vehicle to front door delivery, such as a drone.  
 
-References:
+## References:
+
 https://en.wikipedia.org/wiki/Waymo - Referenced for about section [1]
+
 https://waymo.com/about/#story – Reference for about me section [2]
+
 https://www.forbes.com/sites/bernardmarr/2018/09/21/key-milestones-of-waymo-googles-self-driving-cars/ - Reference for the idea of Waymo [3]
+
 https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/ - Reference for the fundraised amount from Alphabet [4]
+
 https://stackshare.io/waymo/waymo -Reference for applications used [5]
+
 https://builtin.com/articles/self-driving-car-companies - reference for additional companies like Waymo[6]
+
 https://waymo.com/blog/2024/09/safety-data-hub/   - Reference for statistics on Waymo [7]
 
 
