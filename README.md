@@ -10,7 +10,7 @@ Waymo is trying to change the way people move from place to place. The initiativ
 
 ## Landscape
 
-Waymo is a part of the Autonomous Car field which has evolved over time. In the last 10 years, cars have started to integrate AI slowly with self-parking, lane assist, and cruise control (self-adjusting to speed limits and traffic) for just a few examples. Some of the other main players in the field would be Cruise, Tesla, Uber, Lift, Aurora,Nuro, Zoox, and even public transportation.[6] The desire for autonomous ride-sharing capabilities, coupled with safety and security is a trend that will continue to rise as AI integrates in the automotive industry. 
+Waymo is a part of the Autonomous Car field which has evolved over time. In the last 10 years, cars have started to integrate AI slowly with self-parking, lane assist, and cruise control (self-adjusting to speed limits and traffic) for just a few examples. Some of the other main players in the field would be Cruise, Tesla, Uber, Lift, Aurora, Nuro, Zoox, and even public transportation.[6] The desire for autonomous ride-sharing capabilities, coupled with safety and security is a trend that will continue to rise as AI integrates in the automotive industry. 
 
 ## Results
 
