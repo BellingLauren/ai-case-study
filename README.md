@@ -10,7 +10,7 @@ Waymo is trying to change the way people move from place to place. The initiativ
 
 ## Landscape
 
-Waymo is a part of the Autonomous Car field which has evolved over time. In the last 10 years, cars have started to integrate AI slowly with self-parking, lane assist, and cruise control (self-adjusting to speed limits and traffic) for just a few examples. Some of the other main players in the field would be Cruise, Tesla, and Zoox,[6] 
+Waymo is a part of the Autonomous Car field which has evolved over time. In the last 10 years, cars have started to integrate AI slowly with self-parking, lane assist, and cruise control (self-adjusting to speed limits and traffic) for just a few examples. Some of the other main players in the field would be Cruise, Tesla, Uber, Lift Zoox, and even public transportation.[6] The desire for autonomous ride-sharing capabilities, coupled with safety and security is a trend that will continue to rise as AI integrates in the automotive industry. 
 
 ## Results
 
@@ -24,19 +24,19 @@ The possibilities for Waymo are limitless.  In the future, Waymo could deliver e
 
 ## References:
 
-https://en.wikipedia.org/wiki/Waymo - Referenced for about section [1]
+https://en.wikipedia.org/wiki/Waymo - Referenced for overview and origin section [1]
 
-https://waymo.com/about/#story – Reference for about me section [2]
+https://waymo.com/about/#story – Reference for overview and origin section [2]
 
-https://www.forbes.com/sites/bernardmarr/2018/09/21/key-milestones-of-waymo-googles-self-driving-cars/ - Reference for the idea of Waymo [3]
+https://www.forbes.com/sites/bernardmarr/2018/09/21/key-milestones-of-waymo-googles-self-driving-cars/ - Reference for the overview and origin section [3]
 
-https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/ - Reference for the fundraised amount from Alphabet [4]
+https://techcrunch.com/2024/07/23/alphabet-to-invest-another-5b-into-waymo/ - Reference for the fundraised amount from Alphabet- overview and origin section [4]
 
-https://stackshare.io/waymo/waymo -Reference for applications used [5]
+https://stackshare.io/waymo/waymo -Reference for applications used- Business activities section [5]
 
-https://builtin.com/articles/self-driving-car-companies - reference for additional companies like Waymo[6]
+https://builtin.com/articles/self-driving-car-companies - reference for additional companies like Waymo- Landscaping Section[6]
 
-https://waymo.com/blog/2024/09/safety-data-hub/   - Reference for statistics on Waymo [7]
+https://waymo.com/blog/2024/09/safety-data-hub/   - Reference for statistics on Waymo- reference on Results Section [7]
 
-https://waymo.com/safety/impact/ - Reference for Quote by David Zuby Chief Research officer [8]
+https://waymo.com/safety/impact/ - Reference for Quote by David Zuby Chief Research officer - Reference for Results Section[8]
 
