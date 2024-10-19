@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Waymo, formerly known as Google Self-Driving Car Project, was founded in January, 2009 by Sebastian Thrun and Anthony Levandowski. [1][2] The idea for this project was to fully autonomous vehicles to improve mobility, be safer and free up time for people to do other things. [3] By 2015, the first fully autonomous ride was completed on public roads by a blind man in Austin, TX. [2] After more success in the industry in 2016 Waymo was established under Alphabet as a self-driving technology company.[2] By 2017 Waymo started the early rider program allowing residents in the Arizona’s Metro Phoenix the ability to join on their first public trial of autonomous ride-hailing.[2] The funding for this project has been from multiple sources including Alphabet who has reportedly donated 5 billion dollars to the project.[4] 
+Waymo, formerly known as Google Self-Driving Car Project, was founded in _January, 2009_ by **Sebastian Thrun** and **Anthony Levandowski**. [1][2] The idea for this project was to fully autonomous vehicles to improve mobility, be safer and free up time for people to do other things. [3] By 2015, the first fully autonomous ride was completed on public roads by a blind man in Austin, TX. [2] After more success in the industry in 2016 Waymo was established under Alphabet as a self-driving technology company.[2] By 2017 Waymo started the early rider program allowing residents in the Arizona’s Metro Phoenix the ability to join on their first public trial of autonomous ride-hailing.[2] The funding for this project has been from multiple sources including Alphabet who has reportedly donated 5 billion dollars to the project.[4] 
 
 ## Business Activities
 
