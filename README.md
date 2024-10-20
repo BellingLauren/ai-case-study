@@ -1,13 +1,28 @@
 ## Waymo: Ride Share Getting Waymo Better
 
 ## Overview and Origin
-**Waymo**, formerly known as Google Self-Driving Car Project, was founded in _January, 2009_ by **Sebastian Thrun** and **Anthony Levandowski**. [1][2] The idea for this project was to fully autonomous vehicles to improve mobility, be safer and free up time for people to do other things. [3] By 2015, the first fully autonomous ride was completed on public roads by a blind man in Austin, TX. [2] After more success in the industry in 2016 Waymo was established under Alphabet as a self-driving technology company.[2] By 2017 Waymo started the early rider program allowing residents in the Arizona’s Metro Phoenix the ability to join on their first public trial of autonomous ride-hailing.[2] The funding for this project has been from multiple sources including Alphabet who has reportedly donated 5 billion dollars to the project.[4] 
+**Waymo**, formerly known as Google Self-Driving Car Project, was founded in _January, 2009_ by **Sebastian Thrun** and **Anthony Levandowski**. [1][2] The idea for this project was to fully autonomous vehicles to improve mobility, by bringing a safer form of transportation and free up time for people to do other things. [3] 
+
+By _2015_, the first fully autonomous ride was completed on public roads by a blind man in Austin, TX. [2] After more success in the industry in _2016 _Waymo was established under Alphabet as a self-driving technology company.[2] By _2017_ Waymo started the early rider program allowing residents in the Arizona’s Metro Phoenix the ability to join on their first public trial of autonomous ride-hailing.[2] Fast forward to today Waymo has driven over **22 Million Miles** and continues to pave the way for other companies working toward their own rideshare business. [8]
+
+The funding for this project has been from multiple sources including Alphabet who has reportedly donated 5 billion dollars to the project.[4] 
 
 ## Business Activities
-**Waymo** is trying to change the way people move from place to place. The initiative of this project is to allow everyone a safer way to travel while giving them precious time during their commute back. Currently, this project is only being utilized in a small market but the goal is to have self-driving cars everywhere. While other companies are trying to catch up to the current innovation standards Waymo has set, their advantage is being first to market. Competitors new to the industry are still trying to catch up to the artificial intelligence Google has produced and implemented into Waymo today. Waymo uses some of the following applications and data to make its self-driving cars a success AngularJs, Google App Engine, Google Tag Manager, and Google Maps.[5]
+**Waymo** is trying to change the way people move from place to place. The initiative of this project is to allow everyone a safer way to travel while giving them precious time during their commute back. Currently, this project is only being utilized in a small market but the goal is to have self-driving cars everywhere. The initiative also provides safe transportation for young adults needing a ride home after going out for the evening without having to find employees with resolves the issue of finding suitable labor.
+
+While other companies are trying to catch up to the current innovation standards Waymo has set, their advantage is being first to market.Competitors new to the industry are still trying to catch up to the artificial intelligence Google has produced and implemented into Waymo today. 
+
+Waymo uses some of the following applications and data to make its self-driving cars a success **AngularJs, Google App Engine, Google Tag Manager, and Google Maps**.[5]
 
 ## Landscape-
-**Waymo** is a part of the Autonomous Car field which has evolved over time. There are several stages to the Autonomous car field with Waymo being a part of SAE (Society of Automotive Engineers) Level 4 high automation. However, this field means deploying a vehicle that can operate without human intervention.[6] There are various technologies and systems to make this type of field work, including Sensors, Artificial Intelligence, Software Systems, Connectivity (to vehicles), and Regulations and Ethics.[6] In the last 10 years, cars have started to integrate AI slowly with self-parking, lane assist, and cruise control (self-adjusting to speed limits and traffic) for just a few examples. Some of the other main players in the field would be _Cruise, Tesla, Uber, Lift, Aurora, Nuro, Zoox, and even public transportation_.[7] The desire for autonomous ride-sharing capabilities, coupled with safety and security is a trend that will continue to rise as AI integrates in the automotive industry. 
+**Waymo** is a part of the Autonomous Car field which has evolved over time. There are several stages to the Autonomous car field with Waymo being a part of SAE (Society of Automotive Engineers) Level 4 high automation. The Autonomous Car field means deploying a vehicle that can operate without human intervention.[6] There are various technologies and systems to make this type of field operate, including:
+
+* Sensors
+* Artificial Intelligence
+* Software Systems, Connectivity (to vehicles)
+* Regulations and Ethics.[6] 
+
+In the last 10 years, cars have started to integrate AI slowly with self-parking, lane assist, and cruise control (self-adjusting to speed limits and traffic) for just a few examples. Some of the other main players in the field would be _Cruise, Tesla, Uber, Lift, Aurora, Nuro, Zoox, and even public transportation_.[7] The desire for autonomous ride-sharing capabilities, coupled with safety and security is a trend that will continue to rise as AI integrates in the automotive industry. 
 
 ## Results
 
